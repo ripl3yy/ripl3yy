@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Ripley
 
-## 💫 A Liitle Bit About Me
+## 💫 A Little Bit About Me
 <p>😄 Pronouns: He/They/Nyx
 <p>🔭 I'm currently working on learning web development</p>
 <p>🌱 I'm currently learning HTML, CSS, JavaScript</p>
