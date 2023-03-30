@@ -22,11 +22,6 @@
 <a href="https://www.reddit.com/user/Nya_Senpai"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=ripl3yy">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://metrics.lecoq.io/ripl3yy"><p>
